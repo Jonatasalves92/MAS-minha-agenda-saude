@@ -42,5 +42,16 @@ Tecnologia/Sistema	Finalidade
 *Painel administrativo para gestão dos agendamentos
 
 
+# Arquitetura do Sistema
+
+Frontend Web: Interface para usuários e administradores
+
+Mobile App: Interface simplificada para agendamentos
+
+Backend: APIs RESTful para comunicação entre frontend e banco de dados
+
+Database: Armazenamento de dados de usuários, unidades de saúde, horários e agendamentos
+
+
 # 🌍 Impacto Social
 Este sistema contribui diretamente para a desburocratização do acesso à saúde, promovendo mais eficiência, transparência e comodidade para os cidadãos. Além disso, auxilia os gestores públicos a monitorar a demanda e planejar melhor os recursos das unidades de saúde.
